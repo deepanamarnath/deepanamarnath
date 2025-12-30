@@ -36,7 +36,7 @@ Specializing in building **Custom AI Agents**, **No-Code Solutions**, and **Auto
 ---
 
 ### 🔗 Let's Connect
-<a href="https://www.linkedin.com/in/deepanamarnath/" target="_blank">
+<a href="[https://www.linkedin.com/in/deepanamarnath/]" target="_blank">
   <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
