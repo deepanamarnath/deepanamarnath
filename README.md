@@ -1,42 +1,43 @@
 # Hi there, I'm Deepan Amarnath! 👋
-### *Technical Client Partner | Solutions Engineer*
+### *Technical Solutions Architect | AI & Automation Lead*
 
-I bridge the gap between **Business Requirements** and **Technical Execution**.
-With a unique blend of **Business Analysis**, **No-Code Development**, and **Automation Testing**, I deliver end-to-end digital solutions that just work.
+I bridge the gap between **Business Vision** and **Intelligent Execution**.
+Specializing in building **Custom AI Agents**, **No-Code Solutions**, and **Automated Quality Assurance** to drive digital transformation.
 
 ---
 
-### 🚀 What I Do (The 4 Pillars)
+### 🚀 What I Do (The AI-Driven Delivery)
 
-| 🧠 **Analyze (BA)** | 🛠️ **Build (Hybrid Dev)** | ⚡ **Assure (QA Automation)** | 🤝 **Deliver (Client Partner)** |
+| 🧠 **Analyze & Strategy** | 🤖 **AI & Agents** | 🛠️ **Build (No-Code)** | ⚡ **Automate & QA** |
 |:---:|:---:|:---:|:---:|
-| Requirements Gathering | No-Code & AI-Assisted Dev | Selenium & Python Automation | Stakeholder Management |
-| Workflow Mapping | React / Modern Web Apps | Manual & API Testing | Technical Consulting |
-| Documentation (SRS/BRD) | Rapid Prototyping | Quality Assurance | Solution Architecture |
+| Business Analysis (BA) | **Custom AI Agents** | Modern Web Apps | Selenium Automation |
+| Assessment & Roadmap | RAG & LLM Workflows | Rapid Prototyping | End-to-End Testing |
+| Requirements Engineering | Chatbot Orchestration | Integrated Systems | Process Optimization |
 
 ---
 
-### 🧰 Technical Interaction Toolkit
+### 🧰 Technical Arsenal
+
+**🤖 AI & Agentic Workflows:**
+![OpenAI](https://img.shields.io/badge/-Generative_AI-000000?style=flat&logo=openai&logoColor=white)
+![LangChain/Flowise](https://img.shields.io/badge/-AI_Agents_&_RAG-FF4F00?style=flat)
+![Automation](https://img.shields.io/badge/-Workflow_Automation-blue?style=flat)
 
 **💻 Development & No-Code:**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![NoCode](https://img.shields.io/badge/-NoCode_Dev-blueviolet?style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![NoCode](https://img.shields.io/badge/-NoCode_Tools-blueviolet?style=flat)
-![AI Agents](https://img.shields.io/badge/-AI_Agents-FF6F00?style=flat)
 
-**🧪 Quality Assurance:**
+**🧪 Quality & Tools:**
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-**📊 Business & Tools:**
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira_&_Agile-0052CC?style=flat&logo=jira&logoColor=white)
 
 ---
 
-### 📈 Philosophy
-> *"Quality is not an act, it is a habit. Innovation is not just code, it's solving the right problem."*
+### 🔗 Let's Connect
+<a href="https://www.linkedin.com/in/deepanamarnath/" target="_blank">
+  <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
 
-[🔗 Connect on LinkedIn](#) <!-- Add your LinkedIn link here -->
+> *"Building the future of work with Human Ingenuity + Artificial Intelligence."*
